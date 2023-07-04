@@ -217,7 +217,7 @@ h2 {
   background-size: contain;
   background-color: var(--Dark-Violet);
   color: var(--White);
-  margin: 4rem;
+  margin: 4rem 2rem;
   padding: 4rem 2rem;
 }
 
